@@ -225,4 +225,4 @@ Metal Slug is available as a full free version, which includes all features and 
 Don’t miss out on the action! Download Metal Slug today and experience the classic gameplay that has captivated gamers for decades!
 
 ---
-**Last updated:** 2026-11-05 19:22:43 UTC
+**Last updated:** 2026-11-06 00:40:48 UTC
